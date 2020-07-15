@@ -1,2 +1,2 @@
 # ben-justin-wicked-app
-This is an app to rule them all.
+Conflicts are actually hard to force but easy to cause by accident.
